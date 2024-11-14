@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Smart Yoga Mat",
+      "description": "Track your posture and movements in real-time.",
+      "price": 120,
+      "image": "smart-yoga-mat.jpg",
+      "benefits": [
+        "Embedded sensors for posture tracking",
+        "Non-slip surface for safe practice",
+        "Foldable and lightweight"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Smart Water Bottle",
+      "description": "Keeps track of hydration levels and reminds you to drink.",
+      "price": 40,
+      "image": "smart-water-bottle.jpg",
+      "benefits": [
+        "Tracks water intake",
+        "Keeps your drink cold or hot for hours",
+        "Leakproof and durable design"
+      ]
+    }
+  ]
+  
